@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EEzozgUNyKAVEj9qaIkdJJeC0wSeDrg61ysq4r4vIi9f1rCAIwLNqIL7TFNU/Iy6VdDzcX0c5tKEXRadqm33GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\NetworkScreenSharing\\ServerSide\\ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
